@@ -1,49 +1,44 @@
-# CS-Portfolio
-Welcome to my CS Portfolio, a collection of projects that merge data analysis, machine learning, website development, and marketing strategies to uncover solutions, strengths, and areas for improvement in businesses and research. This repository serves as both a showcase of my technical abilities and a playground for advancing my skills in modeling, optimization, and practical AI applications.
+**💥 Lesly's Portfolio: Transforming Data into Actionable Business Strategies 💥**
+Welcome to my **CS Portfolio**, where I use **data analysis**, **machine learning**, and **AI** to solve real-world problems and create long-term value. I'll tell you how I deliver **impactful engineering models** and **scalable business solutions** that shape the future.
 
-📌 What's Inside?
+⚽ **Sport Dojo Predictive Model: Optimizing Athlete Engagement**
+I developed a **predictive model** using **machine learning** and **statistical analysis** to forecast athlete engagement in the Sport Dojo program. By analyzing data from 300+ participants, I built **logistic** and **linear** **regression** **models** to identify key factors like age, education, and teamwork preferences.
 
-Sport Dojo Predictive Model: 
+**🔍 Key Insights & Impact:**
+**🔹 Streamlined Recruitment & Resource Allocation**: Identified traits to target potential coaches and mentors.
+**📈 Strategic Business Decisions**: Delivered data-driven strategies for recruitment, marketing, and program growth.
+**🔄 Future Expansion**: I’m focused on integrating real-time data and scaling this model to health and education sectors.
 
-This project leverages machine learning and statistical analysis to predict athlete engagement in the Sport Dojo program. By analyzing data from over 300 participants, I developed logistic and linear regression models to identify key factors such as age, education, engagement frequency, and teamwork preferences. The model demonstrated strong performance, utilizing feature engineering, exploratory data analysis (EDA), and performance metrics like precision and recall.
+This project highlights my ability to **apply AI and data science to optimize business strategies and solve complex challenges**. I present these findings clearly to drive **competitive market standing** and **client-centric solutions**.
 
-Key findings reveal how traits like interdependence and leadership can pinpoint potential coaches and sports mentors, allowing for optimized recruitment, resource allocation, and marketing strategies. Future enhancements include integrating real-time data and expanding model applications to fields like health and education analytics.This project highlights my ability to apply AI and machine learning to solve real-world problems, enabling organizations to make data-driven decisions that lead to impactful outcomes. I also effectively communicate insights through data storytelling, translating complex findings into actionable business strategies.
+**💡 COVID-19 Transmission Modeling: Data-Driven Public Health Strategy**
+Using **linear dynamical systems**, I developed a **custom** **SIRD** **model** to analyze the transmission of COVID-19 in St. Louis and simulate the impact of policy interventions. This model optimized the understanding of disease spread and helped **predict** **outcomes** based on different strategies.
 
-Electrical Systems Engineering Case Study – Modeling & Optimization of COVID-19 Transmission Dynamics:
+**🔍 Key Contributions & Strategy:**
+**🔹 Built From Scratch**: Developed a flexible, transparent model without relying on built-in tools.
+**🔹 Data Optimization**: Applied **numerical** **optimization** to calibrate the model and minimize errors.
+**🔹 Wave-Specific Modeling**: Focused on specific pandemic phases to capture accurate transmission rates.
+**🔹 Policy Impact Analysis**: Modeled **masking**, **isolation**, and **vaccination** strategies to show a **25% reduction** in cases and fatalities.
+**🔹 Extended Model for Vaccination**: Integrated vaccination data and breakthrough infections, creating a robust response framework.
 
-This project utilizes linear dynamical systems to model and analyze the transmission of COVID-19 in the St. Louis metropolitan area. I developed and optimized a Susceptible-Infected-Recovered-Deceased (SIRD) model, providing a data-driven framework to assess the impact of targeted policy interventions on the pandemic.
+**🔍 Results & Long-Term Insights:**
+**🔹 Real-World Accuracy**: Model aligned closely with actual COVID-19 data, proving its effectiveness.
+**🔹 Policy Impact**: Showed how early intervention can drastically reduce disease spread.
+**🔹 Vaccination Dynamics**: Provided insights into how vaccines impact transmission, improving future outbreak strategies.
 
-Key Contributions & Methodology: 
-- Custom SIRD Model Development – Built a flexible COVID-19 transmission model from scratch, ensuring transparency and customization without relying on built-in 
-  MATLAB functions.
-- Data-Driven Optimization – Used numerical optimization (fmincon) to calibrate infection, recovery, and fatality rates against real-world data, minimizing the 
-  error between predicted and actual case counts.
-- Wave-Specific Analysis – Segmented pandemic data into phases, capturing transmission rate variations more effectively than single-rate models.
-- Policy Impact Simulation – Modeled hypothetical interventions (e.g., masking, isolation, vaccination) and demonstrated a potential 25% reduction in cases and 
-  fatalities.
-- Extended SIRDVN Model – Enhanced the model to include vaccination rates and breakthrough infections, providing a comprehensive framework for future epidemic 
-  management.
+This project is an example of how I used **mathematical** **modeling** and data-driven optimization can influence public health decisions. I love thinking about **complex and interdisciplinary issues**, and I'm excited to **build predictive models** that can optimize real-time solutions.
 
-Results & Insights: 
-- The optimized model closely matched real-world data, demonstrating predictive accuracy.
-- Wave-specific analysis provided more nuanced insights into transmission patterns.
-- Policy interventions such as enhanced masking, isolation, and vaccination would have significantly mitigated disease spread.
-- The extended model highlighted the crucial role of vaccination in altering transmission dynamics, offering valuable insights for future epidemic responses.
+**🔥My Strengths💪**
+**💥 Delivering Game-Changing Results**: I drive high-impact solutions that directly transform business strategies and make a real difference in society.
+**🤝 Master of Cross-Functional Collaboration**: I excel at working with diverse teams, cutting through technical complexity, and making sure everyone is aligned and moving forward.
+**🎯 Focused on Long-Term Solutions**: I want to join teams where we're not just solving the problems of today but **we're building solutions of tomorrow.**
 
-Conclusion & Impact: This work underscores the potential of mathematical modeling in shaping public health strategies. By integrating data-driven optimization with dynamic modeling, we created a robust foundation for data-informed decision-making in public health. The methods developed here are applicable not only to COVID-19 but also to future infectious disease outbreaks.
+**🚀 My Purpose: Strategic Problem Solver**
+My goal is to **build scalable**, **data-driven models** that make smarter, faster, and more efficient solutions. In the long run, I aim to:
 
-This project demonstrates my expertise in mathematical modeling, optimization, and data science, making me well-equipped for roles in systems analysis, healthcare analytics, and policy research
+**🔹 Create Impactful, Scalable Solutions**: Focus on **designing** **solutions** that solve large-scale **challenges** and can grow with **business** **needs**.
+**🔹 Optimize AI for Real-World Applications:** Build AI models that **directly** **improve** **business** **outcomes**, not just theoretical performance.
+**🔹 Drive Proactive Decision-Making:** Provide actionable, data-driven insights that help businesses stay ahead of the curve and navigate complex challenges.
+**🔹 Lead Transformational Projects:** Take on projects that are **interdisicplinary, collaborative, and impactful for society.**
 
-🌟 Purpose & Vision
-
-The goal of these projects is to develop and refine machine learning algorithms that are not only mathematically sound but also feasible for real-world applications. By optimizing AI models and using mathematical frameworks, I strive to:
-✅ Transform abstract concepts into executable solutions.
-✅ Improve model interpretability and practical effectiveness.
-✅ Enhance decision-making through data-driven insights.
-
-🙏 Thank You!
-
-Thank you for visiting my portfolio and taking the time to explore my projects, skills, and interests. Whether you're here to collaborate, learn, or simply browse, I appreciate your curiosity and hope you find something insightful here.
-
-🚀 Let’s build the future with data, math, and AI!
-
+Thanks for reading about my work. Let's talk at **L.m.zelaya@wustl.edu**.
