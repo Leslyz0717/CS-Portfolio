@@ -1,5 +1,4 @@
 # CS-Portfolio
-🚀 CS Portfolio – Data, AI, & Real-World Impact
 Welcome to my CS Portfolio, a collection of projects that merge data analysis, machine learning, website development, and marketing strategies to uncover solutions, strengths, and areas for improvement in businesses and research. This repository serves as both a showcase of my technical abilities and a playground for advancing my skills in modeling, optimization, and practical AI applications.
 
 📌 What's Inside?
