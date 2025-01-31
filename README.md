@@ -9,7 +9,7 @@ This project leverages machine learning and statistical analysis to predict athl
 
 Key findings reveal how traits like interdependence and leadership can pinpoint potential coaches and sports mentors, allowing for optimized recruitment, resource allocation, and marketing strategies. Future enhancements include integrating real-time data and expanding model applications to fields like health and education analytics.This project highlights my ability to apply AI and machine learning to solve real-world problems, enabling organizations to make data-driven decisions that lead to impactful outcomes. I also effectively communicate insights through data storytelling, translating complex findings into actionable business strategies.
 
-Electrical Systems Engineering Case Study – Modeling & Optimization of COVID-19 Transmission Dynamics
+Electrical Systems Engineering Case Study – Modeling & Optimization of COVID-19 Transmission Dynamics:
 
 This project utilizes linear dynamical systems to model and analyze the transmission of COVID-19 in the St. Louis metropolitan area. I developed and optimized a Susceptible-Infected-Recovered-Deceased (SIRD) model, providing a data-driven framework to assess the impact of targeted policy interventions on the pandemic.
 
