@@ -39,7 +39,7 @@ My predictive model shows how I **apply AI and data science to optimize business
 
 ---
 
-## **💊 COVID-19 Transmission Modeling: Data-Driven Public Health Strategy** 💊
+## **💊 COVID-19 Transmission Modeling: Data-Driven Health Outcomes** 💊
 
 Using **linear dynamical systems**, I developed a **custom SIRD model** to analyze the transmission of COVID-19 in St. Louis and simulate the impact of policy interventions. This model optimized the understanding of disease spread and helped **predict outcomes** based on different strategies.
 
