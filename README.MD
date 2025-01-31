@@ -8,10 +8,10 @@
 
 **Learn about my:**  
 
-- ⚽[** Predictive model**](#-sport-dojo-predictive-model-optimizing-athlete-engagement-)  
-- 💊[** SIRD model**](#-covid-19-transmission-modeling-data-driven-public-health-strategy-)  
-- 💪[** Strengths**](#-my-strengths-)  
-- 🚀[** Goals**](#-my-purpose-strategic-problem-solver-)  
+- ⚽ [**Predictive model**](#-sport-dojo-predictive-model-optimizing-athlete-engagement-)  
+- 💊 [**SIRD model**](#-covid-19-transmission-modeling-data-driven-public-health-strategy-)  
+- 💪 [**Strengths**](#-my-strengths-)  
+- 🚀 [**Goals**](#-my-purpose-strategic-problem-solver-)  
 
 ---
 
