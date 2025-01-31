@@ -93,4 +93,4 @@ I want to keep making smart, fast, and sustainable solutions by **building scala
 
 ---
 
-🤝 Thanks for reading. Want to learn more? Let's talk at **L.m.zelaya@wustl.edu**.
+## 🤝 Thanks for reading. Want to learn more? Let's talk at **L.m.zelaya@wustl.edu**.
